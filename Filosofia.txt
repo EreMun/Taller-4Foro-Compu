@@ -12,6 +12,6 @@ Mientras que la Historia del Pensamiento Filosófico recorre los caminos y cambi
 
 El cálculo diferencial predice el movimiento de los objetos, que cumplen con determinadas características, como cometas y planetas,o balones de futbol, pero no define los objetos que modela. Las preguntas ¿Qué es la materia? ¿Qué es el moviemiento? ¿Qué es el tiempo? siguen siendo  preguntas filosóficas, no se responden en el ámbito de la física pese a ser su punto de partida. 
 
-En TGS se sientan las bases del proceso de modelación entendido como en la ciencia moderna, se construye el concepto de modelo y se inicia o refuerza el proceso de abstracción. Pero para esto es necesario tener una noción de qué es un objeto concreto (lo modelado) y qué es un objeto abstracto (el modelo)
+En TGS se sientan las bases del proceso de modelación entendido como en la ciencia moderna, se construye el concepto de modelo y se inicia o refuerza el proceso de abstracción. Pero para esto es necesario tener una noción de qué es un objeto concreto (lo modelado) y qué es un objeto abstracto (el modelo). Pero nuevamente, si este es el punto de partida de la TGS, la disciplina que estudia qué es un objeto concreto y cuáles son las fronteras y qué tan difusas son, es la Filosofía.
 
-Es por esto que la Historia del Pensamiento Filosófico y en general la filosofía
+Es por esto que la Historia del Pensamiento Filosófico y en general la filosofía es de suma importancia.
